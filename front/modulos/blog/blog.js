@@ -1,5 +1,5 @@
 function cargaBlog(){
-	fetch("../back/?tabla=blog") 													// Cargo un endpoint en el back
+	fetch(ruta_back+"?tabla=blog") 													// Cargo un endpoint en el back
 	.then(function(response) { 													// Cuando obtenga respuesta
 		 return response.json(); 													// La convierto en json
 	})
@@ -15,7 +15,7 @@ function cargaBlog(){
 		 	instancia.querySelector("article").onclick = function(){
 		 	
 		 		// Cargo el artículo del blog
-		 		fetch("../back/?busca=blog&campo=Identificador&dato="+this.getAttribute("Identificador")) 													// Cargo un endpoint en el back
+		 		fetch(ruta_back+"?busca=blog&campo=Identificador&dato="+this.getAttribute("Identificador")) 													// Cargo un endpoint en el back
 					.then(function(response) { 													// Cuando obtenga respuesta
 						 return response.json(); 													// La convierto en json
 					})

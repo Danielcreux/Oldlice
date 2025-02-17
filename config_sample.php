@@ -5,7 +5,7 @@
     $dbcontrasena = "";
     $dbbasededatos = "";
 
-	$dbconexion = mysqli_connect(
+	$conexion = mysqli_connect(
 			$dbservidor, 
 			$dbusuario, 
 			$dbcontrasena, 
