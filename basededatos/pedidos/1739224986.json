@@ -1,0 +1,38 @@
+{
+    "cliente": {
+        "nombre": "David",
+        "apellidos": "Ruiz",
+        "email": "info@david.com"
+    },
+    "pedido": {
+        "fecha": "2025-2-10",
+        "numerodepedido": "20252102336"
+    },
+    "productos": [
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        },
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        },
+        {
+            "nombre": "Polvos poliméricos",
+            "descripcion": "Tecnología SlS",
+            "precio": "0.00"
+        },
+        {
+            "nombre": "Aprender",
+            "descripcion": "Aprender",
+            "precio": "19.00"
+        },
+        {
+            "nombre": "Resinas",
+            "descripcion": "Resinas",
+            "precio": "15.00"
+        }
+    ]
+}

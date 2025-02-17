@@ -1,0 +1,23 @@
+{
+    "cliente": {
+        "nombre": "Joshue",
+        "apellidos": "Daniel",
+        "email": "jd2000_fs@hotmail.com"
+    },
+    "pedido": {
+        "fecha": "2025-2-10",
+        "numerodepedido": "2025210164036"
+    },
+    "productos": [
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        },
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        }
+    ]
+}
