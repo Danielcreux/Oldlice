@@ -2,7 +2,7 @@
 <html lang="es">
 	<head>
 		<title>FabriCraft</title>
-		<link rel="Stylesheet" href="estilo/general.css">
+		<link rel="Stylesheet" href="fron/estilo/general.css">
 		<meta charset="utf-8">
 	</head>
 	<body>
