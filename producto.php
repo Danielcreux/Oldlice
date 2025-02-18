@@ -6,9 +6,9 @@
 		<meta charset="utf-8">
 	</head>
 	<body>
-		<?php include "modulos/cabecera/cabecera.php"; ?>
-	    <?php include "modulos/producto/producto.php"; ?>
-		<?php include "modulos/piedepagina/piedepagina.php"; ?>
+		<?php include "front/modulos/cabecera/cabecera.php"; ?>
+	    <?php include "front/modulos/producto/producto.php"; ?>
+		<?php include "front/modulos/piedepagina/piedepagina.php"; ?>
 	</body>
 </html>
-<?php include "log/registro.php"; ?>
+<?php include "front/log/registro.php"; ?>
