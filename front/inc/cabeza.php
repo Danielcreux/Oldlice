@@ -24,3 +24,4 @@
 <meta name="keywords" content="<?php echo $datosweb['palabrasclave']; ?>">
 <meta name="author" content="<?php echo $datosweb['autor']; ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="js/general.js"></script>
