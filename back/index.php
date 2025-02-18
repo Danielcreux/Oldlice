@@ -4,9 +4,13 @@
     
 	include "inc/error.php";                               //configuración de mensajes de error
     include "clases/ConexionBD.php";                       //Importo la clase de conexión a base de datos
+     include "../config.php";
 	header('Content-Type: application/json');              //Indico que este archivo devuelve json
 
-    $conexion = new ConexionBD();                          //Creo una nueva instancia de la conexion
+    $conexion = new ConexionBD($dbservidor, 
+                        $dbusuario, 
+                        $dbcontrasena, 
+                        $dbbasededatos);                          //Creo una nueva instancia de la conexion
 
 	if(isset($_GET['tabla'])){                             //Si la URL me envia una tabla
 		echo $conexion->pideAlgo($_GET['tabla']);          //Llamo al método correspondiente del objeto
