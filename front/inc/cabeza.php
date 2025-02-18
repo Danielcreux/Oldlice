@@ -12,8 +12,9 @@
 ?>
 
 <title><?php echo $datosweb['titulo']; ?></title>
+
 <style>
-<?php include "estilo/general.css"> ?>
+   <?php include "estilo/general.css"; ?>
 </style>
 
 <meta charset="utf-8">
