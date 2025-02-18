@@ -1,5 +1,5 @@
 <?php
-	include "../config.php";
+	include "config.php";
 	$peticion = "
 		SELECT * 
 		FROM config
