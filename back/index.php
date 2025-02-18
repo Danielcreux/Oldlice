@@ -4,7 +4,7 @@
     
 	include "inc/error.php";                               //configuración de mensajes de error
     include "clases/ConexionBD.php";                       //Importo la clase de conexión a base de datos
-     include "../config.php";
+     include "config.php";
 	header('Content-Type: application/json');              //Indico que este archivo devuelve json
 
     $conexion = new ConexionBD($dbservidor, 

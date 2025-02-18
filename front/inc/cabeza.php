@@ -12,7 +12,9 @@
 ?>
 
 <title><?php echo $datosweb['titulo']; ?></title>
-<link rel="Stylesheet" href="estilo/general.css">
+<style>
+<?php include "estilo/general.css">
+</style>
 <meta charset="utf-8">
 <link rel="icon" type="image/svg+xml" href="img/logo.svg">
 <meta name="description" content="<?php echo $datosweb['descripcion']; ?>">
