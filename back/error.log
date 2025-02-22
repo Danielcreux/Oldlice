@@ -1,0 +1,51 @@
+[1740246228][2025-02-22 18:43:48] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246228][2025-02-22 18:43:48] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246228][2025-02-22 18:43:48] Error [2]: include(): Failed opening 'config.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Oldlice\back\in[1740246228][2025-02-22 18:43:48] Error [2]: include(): Failed opening 'config.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+R') in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246228][2025-02-22 18:43:48] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246228][2025-02-22 18:43:48] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246228][2025-02-22 18:43:48] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246228][2025-02-22 18:43:48] Error [2]: include(): Failed opening 'config.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246228][2025-02-22 18:43:48] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246229][2025-02-22 18:43:49] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: include(): Failed opening 'config.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: include(): Failed opening 'config.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: include(config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: include(): Failed opening 'config.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Oldlice\back\index.php on line 7
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbservidor in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbusuario in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbcontrasena in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246229][2025-02-22 18:43:49] Error [2]: Undefined variable $dbbasededatos in C:\xampp\htdocs\Oldlice\back\index.php on line 10
+[1740246229][2025-02-22 18:43:49] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12
+[1740246229][2025-02-22 18:43:49] Uncaught Exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Oldlice\back\clases\ConexionBD.php on line 12

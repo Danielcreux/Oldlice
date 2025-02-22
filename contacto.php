@@ -1,14 +1,14 @@
-<?php include "front/inc/errores.php"; ?>
+<?php include "inc/errores.php"; ?>
 <!doctype html>
 <html lang="es">
 	<head>
-		<?php include "front/inc/cabeza.php"; ?>
+		<?php include "inc/cabeza.php"; ?>
 	</head>
 	<body>
-		<?php include "front/modulos/cabecera/cabecera.php"; ?>
-		<?php include "front/modulos/contacto/contacto.php"; ?>
-		<?php include "front/modulos/piedepagina/piedepagina.php"; ?>
-        <?php include "front/modulos/modal/modal.php"; ?>
+		<?php include "modulos/cabecera/vista/cabecera.php"; ?>
+		<?php include "modulos/contacto/vista/contacto.php"; ?>
+		<?php include "modulos/piedepagina/vista/piedepagina.php"; ?>
+        <?php include "modulos/modal/vista/modal.php"; ?>
 	</body>
 </html>
-<?php include "front/log/registro.php"; ?>
+<?php include "log/registro.php"; ?>

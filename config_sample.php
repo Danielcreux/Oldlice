@@ -1,10 +1,8 @@
 <?php
-
-    $dbservidor = "";
-    $dbusuario = "";
-    $dbcontrasena = "";
-    $dbbasededatos = "";
-
+	$dbservidor = "";
+	$dbusuario = "";
+	$dbcontrasena = "";
+	$dbbasededatos = "";
 	$conexion = mysqli_connect(
 			$dbservidor, 
 			$dbusuario, 
