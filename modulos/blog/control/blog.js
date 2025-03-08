@@ -1,3 +1,5 @@
+/* La funcion de este modulo es conectarse a la base de datos y recuperar el contenido de la misma para presentar un blog en la pagina web para poder presentar información acerca de los encargados */
+
 function cargaBlog(){
 	fetch(ruta_back+"?tabla=blog") 													// Cargo un endpoint en el back
 	.then(function(response) { 													// Cuando obtenga respuesta
